@@ -1,2 +1,2 @@
 the output is:
-"Hello Class"
+"Hello World"
